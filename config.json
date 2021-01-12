@@ -1,8 +1,8 @@
 {
-    "token" : "YOUR BOT TOKEN",
-    "admins" : ["ADMIN USERNAMES (ARRAY)"],
+    "token" : "1309504600:AAEeBquYnfrdKOqGd_1kBUwsPengw42bTHo",
+    "admins" : ["*@Bot_Creator_Dev*"],
     "intro" : "YOUR INTRO HERE",
-    "botname" :"YOUR BOT NAME HERE",
-    "signup" : SIGNUP BONUS (NUMBER),
-    "ref" : REFERRAL BONUS (NUMBER)
+    "botname" :"*Airdropp_Bounty_bot*",
+    "signup" : 10,
+    "ref" : 50
 }
